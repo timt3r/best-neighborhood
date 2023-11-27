@@ -11,5 +11,3 @@ All Data Sets were found through the [Western Pennsylvania Regional Data Center]
 
 **[Water Features](https://data.wprdc.org/dataset/city-water-features)** - This Data Set shows the location of all water features in the neighborhoods of Pittsburgh, shown as Decorative, Drinking Fountain, or Spray
 
-
-A one sentence overview of your repository, meant for someone who is not familiar with the project
