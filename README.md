@@ -4,6 +4,7 @@ This Repository uses three seperate data sets in order to assess what the best n
 ## Team Ducks
 
 Tim Marshall - Tom34@pitt.edu
+
 Ty Wilkinson - tdw47@pitt.edu
 Chris Trent-Davis - cmt135@pitt.edu
 
