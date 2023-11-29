@@ -16,4 +16,3 @@ All main Data Sets were found through the [Western Pennsylvania Regional Data Ce
 **[Neighborhoods](https://data.wprdc.org/datastore/dump/668d7238-cfd2-492e-b397-51a6e74182ff)** - This data set contains a plethora of information about all of the neighborhoods in Pittsburgh. This includes the specific acreage of each, which was used for this project.
 
 **[Arrest Data](https://data.wprdc.org/dataset/arrest-data)** - This data set contains arrest data that ranges back about 25 years. The neighborhood was included in the dataset. **[Population Data](https://www.prisonpolicy.org/origin/pa/2020/pittsburgh.html)** was also used from another website as this was the only thing I could find to support the data.
-
